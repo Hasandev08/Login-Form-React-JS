@@ -2,10 +2,15 @@
 
 ![Alt Text](https://media.giphy.com/media/cXRxxaPGDvYMjZFcZm/giphy.gif)
 
-## Run Project on your device
+## How to run the project
 
 To run this project you have to install nodejs and npm.
 
 ```bash
   npm install
+```
+To install npx you have to use the command
+
+```bash
+  npm install -g npx
 ```
