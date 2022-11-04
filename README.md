@@ -3,6 +3,9 @@
 ![Alt Text](https://media.giphy.com/media/cXRxxaPGDvYMjZFcZm/giphy.gif)
 <br>
 <br>
+It is a simple login form made using ReactJs
+<br>
+<br>
 
 You can see how the project works using the link given below:
 ### [Live Site](https://hardcore-curie-eb5ec2.netlify.app/)
